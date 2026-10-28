@@ -1,6 +1,6 @@
 cask "card-english" do
-  version "0.5.6"
-  sha256 "f2d1736e6c985eb49592a7855316da43e5faa413898b999f2074e3a80537a50b"
+  version "0.6.0"
+  sha256 "c7a738b078b1d50b19f6f32f45eeb720ba4091e76909b2c4a0a7bbff3c89f657"
 
   url "https://github.com/eliasbui/app-card-english/releases/download/v#{version}/CardEnglish-#{version}-macos.zip"
   name "Card English"
